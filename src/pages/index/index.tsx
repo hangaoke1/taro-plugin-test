@@ -21,9 +21,7 @@ export default class Index extends Component<PropsWithChildren> {
   render () {
     return (
       <View className='index'>
-        <Text className='text-red-500'>Hello world!</Text>
-        <View className='w-[370px] bg-red-500 h-4'></View>
-        <View className='w-[370px] bg-blue-500 h-[16px]'></View>
+        <Text>小程序插件开发测试!</Text>
         <Navigator url='plugin://myPlugin/list'>
           Go to pages/list!
         </Navigator>
