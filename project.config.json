@@ -1,0 +1,33 @@
+{
+  "miniprogramRoot": "miniprogram/miniprogram/",
+  "pluginRoot": "miniprogram/plugin/",
+  "compileType": "plugin",
+  "appid": "wx1f06f11c454d338d",
+  "projectname": "qiyu-miniprogram-plugin-next",
+  "description": "七鱼小程序插件",
+  "setting": {
+    "urlCheck": true,
+    "es6": false,
+    "enhance": false,
+    "compileHotReLoad": false,
+    "postcss": false,
+    "minified": false,
+    "newFeature": true,
+    "babelSetting": {
+      "ignore": [],
+      "disablePlugins": [],
+      "outputPath": ""
+    }
+  },
+  "libVersion": "3.5.1",
+  "srcMiniprogramRoot": "miniprogram/miniprogram/",
+  "packOptions": {
+    "ignore": [],
+    "include": []
+  },
+  "condition": {},
+  "editorSetting": {
+    "tabIndent": "insertSpaces",
+    "tabSize": 2
+  }
+}
